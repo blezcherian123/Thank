@@ -1,0 +1,26 @@
+body {
+    background-color: #f8f9fa;
+}
+.card {
+    max-width: 600px;
+    margin: auto;
+}
+#transcript {
+    max-height: 300px;
+    overflow-y: auto;
+    background-color: #fff;
+    border-radius: 5px;
+}
+.transcript-user {
+    color: #007bff;
+    font-weight: bold;
+    margin: 5px 0;
+}
+.transcript-ai {
+    color: #28a745;
+    font-weight: bold;
+    margin: 5px 0;
+}
+#appointmentSummary {
+    font-size: 0.9em;
+}
