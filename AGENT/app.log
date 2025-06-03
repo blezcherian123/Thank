@@ -1,0 +1,163 @@
+2025-06-03 15:08:24,381 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.220.10:5000
+2025-06-03 15:08:24,381 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-03 15:08:24,384 - INFO -  * Restarting with stat
+2025-06-03 15:08:25,144 - WARNING -  * Debugger is active!
+2025-06-03 15:08:25,155 - INFO -  * Debugger PIN: 228-969-689
+2025-06-03 15:09:21,262 - INFO - 127.0.0.1 - - [03/Jun/2025 15:09:21] "[33mGET / HTTP/1.1[0m" 404 -
+2025-06-03 15:10:39,691 - INFO - 127.0.0.1 - - [03/Jun/2025 15:10:39] "[33mGET / HTTP/1.1[0m" 404 -
+2025-06-03 15:12:13,118 - INFO - 127.0.0.1 - - [03/Jun/2025 15:12:13] "[33mGET / HTTP/1.1[0m" 404 -
+2025-06-03 15:13:51,519 - INFO -  * Detected change in 'D:\\React learning\\Hos\\AGENT\\app.py', reloading
+2025-06-03 15:13:51,755 - INFO -  * Restarting with stat
+2025-06-03 15:13:52,652 - WARNING -  * Debugger is active!
+2025-06-03 15:13:52,669 - INFO -  * Debugger PIN: 228-969-689
+2025-06-03 15:14:20,806 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.220.10:5000
+2025-06-03 15:14:20,807 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-03 15:14:20,809 - INFO -  * Restarting with stat
+2025-06-03 15:14:21,469 - WARNING -  * Debugger is active!
+2025-06-03 15:14:21,475 - INFO -  * Debugger PIN: 228-969-689
+2025-06-03 15:14:44,615 - INFO - 127.0.0.1 - - [03/Jun/2025 15:14:44] "GET / HTTP/1.1" 200 -
+2025-06-03 15:14:44,721 - INFO - 127.0.0.1 - - [03/Jun/2025 15:14:44] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-03 15:14:44,722 - INFO - 127.0.0.1 - - [03/Jun/2025 15:14:44] "GET /static/scripts.js HTTP/1.1" 200 -
+2025-06-03 15:14:45,352 - INFO - 127.0.0.1 - - [03/Jun/2025 15:14:45] "GET /get_api_keys HTTP/1.1" 200 -
+2025-06-03 15:14:48,031 - INFO - 127.0.0.1 - - [03/Jun/2025 15:14:48] "GET /get_api_keys HTTP/1.1" 200 -
+2025-06-03 15:15:24,798 - INFO - 127.0.0.1 - - [03/Jun/2025 15:15:24] "GET /get_api_keys HTTP/1.1" 200 -
+2025-06-03 15:15:52,520 - INFO -  * Detected change in 'D:\\React learning\\Hos\\AGENT\\app.py', reloading
+2025-06-03 15:15:52,582 - INFO -  * Restarting with stat
+2025-06-03 15:15:53,224 - WARNING -  * Debugger is active!
+2025-06-03 15:15:53,230 - INFO -  * Debugger PIN: 228-969-689
+2025-06-03 15:15:55,281 - INFO -  * Detected change in 'D:\\React learning\\Hos\\AGENT\\app.py', reloading
+2025-06-03 15:15:55,329 - INFO -  * Restarting with stat
+2025-06-03 15:15:55,870 - WARNING -  * Debugger is active!
+2025-06-03 15:15:55,875 - INFO -  * Debugger PIN: 228-969-689
+2025-06-03 15:15:59,939 - INFO -  * Detected change in 'D:\\React learning\\Hos\\AGENT\\app.py', reloading
+2025-06-03 15:15:59,999 - INFO -  * Restarting with stat
+2025-06-03 15:16:00,554 - WARNING -  * Debugger is active!
+2025-06-03 15:16:00,559 - INFO -  * Debugger PIN: 228-969-689
+2025-06-03 15:16:04,636 - INFO -  * Detected change in 'D:\\React learning\\Hos\\AGENT\\app.py', reloading
+2025-06-03 15:16:04,751 - INFO -  * Restarting with stat
+2025-06-03 16:07:33,623 - WARNING - Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2025-06-03 16:13:24,250 - WARNING - Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2025-06-03 16:15:26,617 - INFO - NLP models loaded successfully
+2025-06-03 16:15:26,643 - INFO - Database initialized
+2025-06-03 16:15:26,806 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.220.10:5000
+2025-06-03 16:15:26,806 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-03 16:15:26,812 - INFO -  * Restarting with stat
+2025-06-03 16:15:38,765 - INFO - NLP models loaded successfully
+2025-06-03 16:15:38,767 - INFO - Database initialized
+2025-06-03 16:15:38,780 - WARNING -  * Debugger is active!
+2025-06-03 16:15:38,792 - INFO -  * Debugger PIN: 228-969-689
+2025-06-03 16:18:38,422 - INFO - NLP models loaded successfully
+2025-06-03 16:18:38,431 - INFO - Database initialized
+2025-06-03 16:18:38,460 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.220.10:5000
+2025-06-03 16:18:38,461 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-03 16:18:38,463 - INFO -  * Restarting with stat
+2025-06-03 16:18:47,935 - INFO - NLP models loaded successfully
+2025-06-03 16:18:47,937 - INFO - Database initialized
+2025-06-03 16:18:47,948 - WARNING -  * Debugger is active!
+2025-06-03 16:18:47,954 - INFO -  * Debugger PIN: 228-969-689
+2025-06-03 16:19:02,113 - INFO - 127.0.0.1 - - [03/Jun/2025 16:19:02] "[36mGET / HTTP/1.1[0m" 304 -
+2025-06-03 16:19:02,277 - INFO - 127.0.0.1 - - [03/Jun/2025 16:19:02] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-06-03 16:19:02,281 - INFO - 127.0.0.1 - - [03/Jun/2025 16:19:02] "[36mGET /static/scripts.js HTTP/1.1[0m" 304 -
+2025-06-03 16:19:17,345 - ERROR - Error logging conversation: table conversation_history has no column named intent
+2025-06-03 16:19:24,548 - ERROR - Error logging conversation: table conversation_history has no column named intent
+2025-06-03 16:19:24,588 - INFO - 127.0.0.1 - - [03/Jun/2025 16:19:24] "POST /process HTTP/1.1" 200 -
+2025-06-03 16:19:41,466 - ERROR - Error logging conversation: table conversation_history has no column named intent
+2025-06-03 16:19:44,636 - ERROR - Error logging conversation: table conversation_history has no column named intent
+2025-06-03 16:19:44,637 - INFO - 127.0.0.1 - - [03/Jun/2025 16:19:44] "POST /process HTTP/1.1" 200 -
+2025-06-03 16:20:17,777 - ERROR - Error logging conversation: table conversation_history has no column named intent
+2025-06-03 16:20:21,268 - ERROR - Error logging conversation: table conversation_history has no column named intent
+2025-06-03 16:20:21,269 - INFO - 127.0.0.1 - - [03/Jun/2025 16:20:21] "POST /process HTTP/1.1" 200 -
+2025-06-03 16:21:02,456 - ERROR - Error logging conversation: table conversation_history has no column named intent
+2025-06-03 16:21:05,472 - ERROR - Error logging conversation: table conversation_history has no column named intent
+2025-06-03 16:21:05,473 - INFO - 127.0.0.1 - - [03/Jun/2025 16:21:05] "POST /process HTTP/1.1" 200 -
+2025-06-03 16:21:57,878 - INFO -  * Detected change in 'D:\\React learning\\Hos\\AGENT\\app.py', reloading
+2025-06-03 16:22:01,409 - INFO -  * Restarting with stat
+2025-06-03 16:25:33,165 - INFO - NLP models loaded successfully
+2025-06-03 16:25:33,170 - INFO - Database initialized
+2025-06-03 16:25:33,191 - WARNING -  * Debugger is active!
+2025-06-03 16:25:33,201 - INFO -  * Debugger PIN: 228-969-689
+2025-06-03 16:25:42,855 - INFO -  * Detected change in 'D:\\React learning\\Hos\\AGENT\\app.py', reloading
+2025-06-03 16:25:52,503 - INFO - Database initialized
+2025-06-03 16:25:52,513 - WARNING -  * Debugger is active!
+2025-06-03 16:25:52,518 - INFO -  * Debugger PIN: 228-969-689
+2025-06-03 16:26:21,024 - INFO - Database initialized
+2025-06-03 16:26:21,044 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.220.10:5000
+2025-06-03 16:26:21,044 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-03 16:26:21,047 - INFO -  * Restarting with stat
+2025-06-03 16:26:27,317 - INFO - Database initialized
+2025-06-03 16:26:27,325 - WARNING -  * Debugger is active!
+2025-06-03 16:26:27,331 - INFO -  * Debugger PIN: 228-969-689
+2025-06-03 16:27:15,214 - INFO - 127.0.0.1 - - [03/Jun/2025 16:27:15] "[36mGET / HTTP/1.1[0m" 304 -
+2025-06-03 16:27:15,314 - INFO - 127.0.0.1 - - [03/Jun/2025 16:27:15] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-06-03 16:27:15,325 - INFO - 127.0.0.1 - - [03/Jun/2025 16:27:15] "[36mGET /static/scripts.js HTTP/1.1[0m" 304 -
+2025-06-03 16:27:19,898 - INFO - 127.0.0.1 - - [03/Jun/2025 16:27:19] "[36mGET / HTTP/1.1[0m" 304 -
+2025-06-03 16:27:19,945 - INFO - 127.0.0.1 - - [03/Jun/2025 16:27:19] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-06-03 16:27:19,948 - INFO - 127.0.0.1 - - [03/Jun/2025 16:27:19] "[36mGET /static/scripts.js HTTP/1.1[0m" 304 -
+2025-06-03 16:27:35,129 - ERROR - Error in sentiment analysis: name 'requests' is not defined
+2025-06-03 16:27:35,130 - ERROR - Error logging conversation: table conversation_history has no column named intent
+2025-06-03 16:27:35,134 - ERROR - Error in zero-shot classification: name 'requests' is not defined
+2025-06-03 16:27:35,135 - ERROR - Error logging conversation: table conversation_history has no column named intent
+2025-06-03 16:27:35,136 - INFO - 127.0.0.1 - - [03/Jun/2025 16:27:35] "POST /process HTTP/1.1" 200 -
+2025-06-03 16:27:46,255 - ERROR - Error in sentiment analysis: name 'requests' is not defined
+2025-06-03 16:27:46,255 - ERROR - Error logging conversation: table conversation_history has no column named intent
+2025-06-03 16:27:46,258 - ERROR - Error in zero-shot classification: name 'requests' is not defined
+2025-06-03 16:27:46,258 - ERROR - Error logging conversation: table conversation_history has no column named intent
+2025-06-03 16:27:46,259 - INFO - 127.0.0.1 - - [03/Jun/2025 16:27:46] "POST /process HTTP/1.1" 200 -
+2025-06-03 16:27:58,764 - ERROR - Error in sentiment analysis: name 'requests' is not defined
+2025-06-03 16:27:58,764 - ERROR - Error logging conversation: table conversation_history has no column named intent
+2025-06-03 16:27:58,766 - ERROR - Error in zero-shot classification: name 'requests' is not defined
+2025-06-03 16:27:58,767 - ERROR - Error logging conversation: table conversation_history has no column named intent
+2025-06-03 16:27:58,767 - INFO - 127.0.0.1 - - [03/Jun/2025 16:27:58] "POST /process HTTP/1.1" 200 -
+2025-06-03 16:28:13,087 - ERROR - Error in sentiment analysis: name 'requests' is not defined
+2025-06-03 16:28:13,089 - ERROR - Error logging conversation: table conversation_history has no column named intent
+2025-06-03 16:28:13,091 - ERROR - Error in zero-shot classification: name 'requests' is not defined
+2025-06-03 16:28:13,092 - ERROR - Error logging conversation: table conversation_history has no column named intent
+2025-06-03 16:28:13,093 - INFO - 127.0.0.1 - - [03/Jun/2025 16:28:13] "POST /process HTTP/1.1" 200 -
+2025-06-03 16:28:35,355 - ERROR - Error in sentiment analysis: name 'requests' is not defined
+2025-06-03 16:28:35,355 - ERROR - Error logging conversation: table conversation_history has no column named intent
+2025-06-03 16:28:35,357 - ERROR - Error in zero-shot classification: name 'requests' is not defined
+2025-06-03 16:28:35,359 - ERROR - Error logging conversation: table conversation_history has no column named intent
+2025-06-03 16:28:35,359 - INFO - 127.0.0.1 - - [03/Jun/2025 16:28:35] "POST /process HTTP/1.1" 200 -
+2025-06-03 16:29:10,886 - INFO - 127.0.0.1 - - [03/Jun/2025 16:29:10] "[36mGET / HTTP/1.1[0m" 304 -
+2025-06-03 16:29:10,983 - INFO - 127.0.0.1 - - [03/Jun/2025 16:29:10] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-06-03 16:29:10,989 - INFO - 127.0.0.1 - - [03/Jun/2025 16:29:10] "[36mGET /static/scripts.js HTTP/1.1[0m" 304 -
+2025-06-03 16:59:54,267 - ERROR - Error in sentiment analysis: name 'requests' is not defined
+2025-06-03 16:59:54,276 - ERROR - Error logging conversation: table conversation_history has no column named intent
+2025-06-03 16:59:54,286 - ERROR - Error in zero-shot classification: name 'requests' is not defined
+2025-06-03 16:59:54,287 - ERROR - Error logging conversation: table conversation_history has no column named intent
+2025-06-03 16:59:54,289 - INFO - 127.0.0.1 - - [03/Jun/2025 16:59:54] "POST /process HTTP/1.1" 200 -
+2025-06-03 17:00:09,966 - ERROR - Error in sentiment analysis: name 'requests' is not defined
+2025-06-03 17:00:09,967 - ERROR - Error logging conversation: table conversation_history has no column named intent
+2025-06-03 17:00:09,969 - ERROR - Error in zero-shot classification: name 'requests' is not defined
+2025-06-03 17:00:09,970 - ERROR - Error logging conversation: table conversation_history has no column named intent
+2025-06-03 17:00:09,970 - INFO - 127.0.0.1 - - [03/Jun/2025 17:00:09] "POST /process HTTP/1.1" 200 -
+2025-06-03 17:01:01,751 - INFO - 127.0.0.1 - - [03/Jun/2025 17:01:01] "[36mGET / HTTP/1.1[0m" 304 -
+2025-06-03 17:01:01,843 - INFO - 127.0.0.1 - - [03/Jun/2025 17:01:01] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-06-03 17:01:01,852 - INFO - 127.0.0.1 - - [03/Jun/2025 17:01:01] "[36mGET /static/scripts.js HTTP/1.1[0m" 304 -
+2025-06-03 17:01:27,709 - INFO -  * Detected change in 'D:\\React learning\\Hos\\AGENT\\app.py', reloading
+2025-06-03 17:01:31,511 - INFO -  * Restarting with stat
+2025-06-03 17:01:43,811 - INFO - NLP models loaded successfully
+2025-06-03 17:01:43,814 - INFO - Database initialized
+2025-06-03 17:01:43,831 - WARNING -  * Debugger is active!
+2025-06-03 17:01:43,841 - INFO -  * Debugger PIN: 228-969-689
+2025-06-03 17:01:44,056 - INFO - 127.0.0.1 - - [03/Jun/2025 17:01:44] "[36mGET / HTTP/1.1[0m" 304 -
+2025-06-03 17:01:44,128 - INFO - 127.0.0.1 - - [03/Jun/2025 17:01:44] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-06-03 17:01:44,132 - INFO - 127.0.0.1 - - [03/Jun/2025 17:01:44] "[36mGET /static/scripts.js HTTP/1.1[0m" 304 -
+2025-06-03 17:01:55,219 - INFO - 127.0.0.1 - - [03/Jun/2025 17:01:55] "[36mGET / HTTP/1.1[0m" 304 -
+2025-06-03 17:01:55,314 - INFO - 127.0.0.1 - - [03/Jun/2025 17:01:55] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-06-03 17:01:55,324 - INFO - 127.0.0.1 - - [03/Jun/2025 17:01:55] "[36mGET /static/scripts.js HTTP/1.1[0m" 304 -
